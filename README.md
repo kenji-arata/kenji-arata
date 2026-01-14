@@ -7,8 +7,14 @@
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=ts,react,next,rails,go,docker,aws" />
 <br>
 
+## 📊 Profile Details
+<br>
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kenji-arata&theme=github_dark" alt="Profile Details" />
+</p>
+<br>
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kenji-arata&theme=github_dark" alt="Top Languages by Repo" />
+</p>
+<br>
 
-## 🏃‍♀️ Activities
-<div align="left"> 
-  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenji-arata&theme=vue-dark&layout=compact" />
-</div>
